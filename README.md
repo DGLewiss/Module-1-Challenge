@@ -65,3 +65,8 @@ Very well - it is black rock
 2. Trades occur through smart contracts -> All transactions are documented on the TwoGap blockchain.
 3. TwoGap outcompetes Aladdin in all three asset management silos.
 Implement an asset manager that uses blockchain technology. And this is where TwoGap comes in. TwoGap is a next-generation asset management platform created with blockchain technology. Trades occur through smart contracts meaning all transactions are documented on the TwoGap blockchain. TwoGap outcompetes Aladdin in all three asset management silos: Research Silo, Marketing and Technical Model
+
+![Alt text](url "Title")
+
+
+
