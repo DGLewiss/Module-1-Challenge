@@ -3,7 +3,7 @@
 ![Alternate](Images/Blackrock_Servers.jpeg "Blackrock Servers")
 
 ## Table of contents
-* [Overview and Origin](#overview and origin)
+* [Overview and Origin](#overview-and-origin)
   
 
 # Overview and Origin
