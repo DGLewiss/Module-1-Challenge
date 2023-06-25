@@ -7,7 +7,7 @@
 * [Business Activities](#business-activities)
 * [Landscape](#landscape)
 * [Results](results)
-* [Reccomendations](Reccomendations)
+* [Recommendations](Recommendations)
 
 
 # Overview and Origin
