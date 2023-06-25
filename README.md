@@ -21,9 +21,9 @@ BlackRock was founded in 1988 by eight founders, Larry Fink, Robert Kapito, Susa
 
 BlackRock’s Aladdin is the investment management tool of choice for over 55,000 investment professionals and 200 institutional clients. The platform assists users with portfolio, risk and data management, compliance, regulations and client servicing. Aladdin’s latest ability is ESG integration enabling customers to factor ESG analytics into investment decision-making. Sustainable business operations are imperative for corporations to future-proof their positions. Recently structured tax provisions such as the inflation reduction act are passed to support investment into renewable energy transition and sustainable technologies. Therefore, investors obtaining insight into tax policies with ESG strategies provide an opportunity for differentiated investment outcomes. BlackRock’s Aladdin positions itself between the legislative change and investors to support ESG investments and accelerate economic prosperity in this sector.
 
+
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 institutional investors including asset managers, pension funds, insurers and corporate treasurers.
-
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?)
  and getting ahead of — emerging customer and market trends. Climate change and sustainability likely rank among the most pressing.
@@ -33,7 +33,7 @@ Since the start of 2020, Aladdin has added nearly 30 high-level sustainability i
 
 # Landscape
 
-BlackRock’s Aladdin provides an array of services that justify a position in multiple domains within the financial industry. The discipline that BlackRock's Aladdin ticks the most boxes with is asset management. As technology applications continue to advance and our dependence on technology grows, innovations within the industry progress quickly. Key trends encompass the optimisation of processes through digital transformation, implementation of AI, Machine learning and improvement in quantitative analysis. Machine learning systems and AI are often implemented to support another trend in the industry, improving client experience and satisfaction with service. Clients of asset management firms are also shifting toward a ‘greener’ investment portfolio. Growing awareness of environmental and social impacts on financial performance requires firms to demonstrate ESG consideration in investment decisions and offer ESG-concentrated investments.
+BlackRock’s Aladdin provides an array of services that justify a position in multiple domains within the financial industry. The discipline that BlackRock's Aladdin ticks the most boxes with is asset management. As technology applications continue to advance and our dependence on technology grows, innovations within the industry progress quickly. Key trends encompass the optimisation of processes through digital transformation, implementation of AI, Machine learning and improvement in quantitative analysis. Machine learning systems and AI are often implemented to support another trend in the industry, improving client experience and satisfaction with service. Clients of asset management firms are also shifting toward a ‘greener’ investment portfolio, putting their money where their values are. Growing awareness of environmental and social impacts on financial performance requires firms to demonstrate ESG consideration in investment decisions and offer ESG-concentrated investments.
 
 *MAJOR COMPETITORS!!!
 
