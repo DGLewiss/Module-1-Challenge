@@ -4,10 +4,10 @@
 
 ## Table of contents
 * [Overview and Origin](##Overview-and-origin)
-* [Business Activities](Operations-success-and-Challenges)
-* [Landscape](Competitive-position)
-* [Results](outcomes-of-the-fintech-tool)
-* [Reccomendations](operational-suggestions)
+* [Business Activities](##Business-Activities)
+* [Landscape](##Landscape)
+* [Results](##Results)
+* [Reccomendations](##Reccomendations)
 
 
 ## Overview and Origin
