@@ -68,5 +68,6 @@ Implement an asset manager that uses blockchain technology. And this is where Tw
 
 ![Alternate](Images/Blackrock_Servers.jpeg "Blackrock Servers")
 
+![image}(Images/blackrock_offices_front.jpeg "Blackrock Front)
 
 
