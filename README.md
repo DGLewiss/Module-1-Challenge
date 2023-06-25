@@ -19,12 +19,11 @@ BlackRock was founded in 1988 by eight founders, Larry Fink, Robert Kapito, Susa
 
 # Business Activities
 
-* What specific financial problem is the company or project trying to solve?
-Aladdin allows teams across investments, trading, operations, administration, risk, compliance, and corporate oversight to use a consistent process and share the same data.  specifically a software for portfolio management 
-Providing consistent oversight of the portfolio and enabling a standardised approach to decision making of that portfolio while also highlighting risks within that portfolio.
+BlackRock’s Aladdin is the investment management tool of choice for over 55,000 investment professionals and 200 institutional clients. The platform assists users with portfolio, risk and data management, compliance, regulations and client servicing. Aladdin’s latest ability is ESG integration enabling customers to factor ESG analytics into investment decision-making. Sustainable business operations are imperative for corporations to future-proof their positions. Recently structured tax provisions such as the inflation reduction act are passed to support investment into renewable energy transition and sustainable technologies. Therefore, investors obtaining insight into tax policies with ESG strategies provide an opportunity for differentiated investment outcomes. BlackRock’s Aladdin positions itself between the legislative change and investors to support ESG investments and accelerate economic prosperity in this sector.
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 institutional investors including asset managers, pension funds, insurers and corporate treasurers.
+
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?)
  and getting ahead of — emerging customer and market trends. Climate change and sustainability likely rank among the most pressing.
