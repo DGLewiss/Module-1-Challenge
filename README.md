@@ -3,14 +3,10 @@
 ![Alternate](Images/Blackrock_Servers.jpeg "Blackrock Servers")
 
 ## Table of contents
-* [Overview and Origin](##Overview-and-origin)
-* [Business Activities](##Business-Activities)
-* [Landscape](##Landscape)
-* [Results](##Results)
-* [Reccomendations](##Reccomendations)
+* [Overview and Origin](#overview and origin)
+  
 
-
-## Overview and Origin
+# Overview and Origin
 
 * What is the name of the company?
  
