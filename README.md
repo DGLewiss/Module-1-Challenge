@@ -1,5 +1,5 @@
 
-# Blackrock's Aladdin, old Dog New Tricks 
+# Blackrock's Aladdin, Old Dog New Tricks 
 ![Alternate](Images/Blackrock_Servers.jpeg "Blackrock Servers")
 
 ## Table of contents
@@ -22,12 +22,6 @@ BlackRock was founded in 1988 by eight founders, Larry Fink, Robert Kapito, Susa
 BlackRock’s Aladdin is the investment management tool of choice for over 55,000 investment professionals and 200 institutional clients. The platform assists users with portfolio, risk and data management, compliance, regulations and client servicing. Aladdin’s latest ability is ESG integration enabling customers to factor ESG analytics into investment decision-making. Sustainable business operations are imperative for corporations to future-proof their positions. Recently structured tax provisions such as the inflation reduction act are passed to support investment into renewable energy transition and sustainable technologies. Therefore, investors obtaining insight into tax policies with ESG strategies provide an opportunity for differentiated investment outcomes. BlackRock’s Aladdin positions itself between the legislative change and investors to support ESG investments and accelerate economic prosperity in this sector.
 
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-institutional investors including asset managers, pension funds, insurers and corporate treasurers.
-
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?)
- and getting ahead of — emerging customer and market trends. Climate change and sustainability likely rank among the most pressing.
-
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
 Since the start of 2020, Aladdin has added nearly 30 high-level sustainability index scores from leading data providers. They’ve integrated new ESG data fields from groups like MSCI and Sustainalytics into the platform. And they are partnering to expand the offering, including a strategic partnership with Clarity AI (a tech-driven sustainability measurement start-up) and the acquisition of Baringa Partner’s Climate Change Scenario Mode
 
@@ -35,7 +29,7 @@ Since the start of 2020, Aladdin has added nearly 30 high-level sustainability i
 
 BlackRock’s Aladdin provides an array of services that justify a position in multiple domains within the financial industry. The discipline that BlackRock's Aladdin ticks the most boxes with is asset management. As technology applications continue to advance and our dependence on technology grows, innovations within the industry progress quickly. Key trends encompass the optimisation of processes through digital transformation, implementation of AI, Machine learning and improvement in quantitative analysis. Machine learning systems and AI are often implemented to support another trend in the industry, improving client experience and satisfaction with service. Clients of asset management firms are also shifting toward a ‘greener’ investment portfolio, putting their money where their values are. Growing awareness of environmental and social impacts on financial performance requires firms to demonstrate ESG consideration in investment decisions and offer ESG-concentrated investments.
 
-*MAJOR COMPETITORS!!!
+When selecting an investment management platform there is no perfect solution, but Aladdin provides five arguments for itself to be the platform of choice. BlackRock’s Aladdin risk management services are supported by almost 35 years of advisory at the pinnacle of finance. Aladdin also provides the full range of asset coverage that any BlackRock client can gain access to mutual funds and exchange-traded funds (ETF). Their extensive portfolio of big data and capital enables Aladdin to provide the highest echelon of data connectivity, and real-time and historic qualitative and quantitative insights into equities. Furthermore, the provided data analytics within the ESG space is unrivalled for investors in executing sustainable investments. Finally, Aladdin’s integration with BlackRock’s ecosystem enables all users to access investment products, insights and reporting functions. While these services might be billable to competitors, BlackRock’s capital offers them as a philanthropic gesture.
 
 # Results
 
