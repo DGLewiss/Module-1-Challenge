@@ -5,6 +5,10 @@
 ## Table of contents
 * [Overview and Origin](#overview-and-origin)
 * [Business Activities](#business-activities)
+* [Landscape](#landscape)
+* [Results](results)
+* [Reccomendations](Reccomendations)
+
 
 # Overview and Origin
 
@@ -35,7 +39,7 @@ institutional investors including asset managers, pension funds, insurers and co
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
 Since the start of 2020, Aladdin has added nearly 30 high-level sustainability index scores from leading data providers. They’ve integrated new ESG data fields from groups like MSCI and Sustainalytics into the platform. And they are partnering to expand the offering, including a strategic partnership with Clarity AI (a tech-driven sustainability measurement start-up) and the acquisition of Baringa Partner’s Climate Change Scenario Mode
 
-## Landscape
+# Landscape
 
 * What domain of the financial industry is the company in?
 Asset management 
@@ -48,7 +52,7 @@ Asset management
 * What are the other major companies in this domain?
 Charles schwab, northern trust, fidelity investments, State street, vangaurd, berkshire hathaway & 
 
-## Results
+# Results
 
 * What has been the business impact of this company so far?
 the business impact of aladdin 
@@ -61,7 +65,7 @@ BlackRock key operating metrics including Countries Covered, environmental, soci
 Very well - it is black rock
 
 
-## Recommendations
+# Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 * Why do you think that offering this product or service would benefit the company? SOURCEFORGE.NET
