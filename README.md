@@ -11,6 +11,11 @@
 
 
 # Overview and Origin
+BlackRock was founded in 1988 by eight founders, Larry Fink, Robert Kapito, Susan Wagner, Barbara Novick, Ben Golub, Hugh Frater, Ralph Schlosstein, and Keith Anderson. BlackRock operates in the asset management domain managing over 9 trillion USD as of the end of quarter one 2023, AUM globally is approximately $97t. The Assets Under Management (AUM) are invested from an array of clients including governments, insurance and pension funds and individual investors. BlackRock has recently shifted its focus towards an environmental, social and governance (ESG) approach with investment management, involving sustainability considerations in its largely data-driven decision-making process. BlackRock also provides risk management and financial advisory services to its diverse base of clients to improve financial outcomes in periods of increased market volatility. As a result of BlackRock’s influence in financial markets, there is some debate around its role in the global financial ecosystem.
+
+
+(https://www.pionline.com/money-management/blackrock-posts-aum-909-trillion-first-quarter-down-5-last-year#:~:text=BlackRock%20reported%20assets%20under%20management,the%20fourth%20quarter%20of%202022.)
+
 
 * What is the name of the company?
  
@@ -76,5 +81,4 @@ Very well - it is black rock
 3. TwoGap outcompetes Aladdin in all three asset management silos.
 Implement an asset manager that uses blockchain technology. And this is where TwoGap comes in. TwoGap is a next-generation asset management platform created with blockchain technology. Trades occur through smart contracts meaning all transactions are documented on the TwoGap blockchain. TwoGap outcompetes Aladdin in all three asset management silos: Research Silo, Marketing and Technical Model
 
-![Alternate](Images/Blackrock_Servers.jpeg "Blackrock Servers")
 
