@@ -14,20 +14,8 @@
 BlackRock was founded in 1988 by eight founders, Larry Fink, Robert Kapito, Susan Wagner, Barbara Novick, Ben Golub, Hugh Frater, Ralph Schlosstein, and Keith Anderson. BlackRock operates in the asset management domain managing over 9 trillion USD as of the end of quarter one 2023, AUM globally is approximately $97t. The Assets Under Management (AUM) are invested from an array of clients including governments, insurance and pension funds and individual investors. BlackRock has recently shifted its focus towards an environmental, social and governance (ESG) approach with investment management, involving sustainability considerations in its largely data-driven decision-making process. BlackRock also provides risk management and financial advisory services to its diverse base of clients to improve financial outcomes in periods of increased market volatility. As a result of BlackRock’s influence in financial markets, there is some debate around its role in the global financial ecosystem.
 
 
-(https://www.pionline.com/money-management/blackrock-posts-aum-909-trillion-first-quarter-down-5-last-year#:~:text=BlackRock%20reported%20assets%20under%20management,the%20fourth%20quarter%20of%202022.)
 
 
-* What is the name of the company?
- 
-Blackrock inc.
-* When was the company incorporated?
-1988 aladdin was launced with Blackrock
-* Who are the founders of the company?
-the program aladdin was created by the investment back blackrock
-* How did the idea for the company (or project) come about?
-Aladdin was developed to enable clients to view all their investments with precison and risk insights into their portfolios 
-* How is the company funded? How much funding have they received?
-the compnay in publically listed and aladdin currently manages approximately $21t usd as of 2021
 
 # Business Activities
 
