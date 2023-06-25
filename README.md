@@ -1,6 +1,14 @@
 
-# Blackrock's Aladdin, old dog - new tricks 
+# Blackrock's Aladdin, old Dog New Tricks 
 ![Alternate](Images/Blackrock_Servers.jpeg "Blackrock Servers")
+
+## Table of contents
+* [Overview and Origin](background-info)
+* [Business Activities](Operations-success-and-Challenges)
+* [Landscape](Competitive-position)
+* [Results](outcomes-of-the-fintech-tool)
+* [Reccomendations](operational-suggestions)
+
 
 ## Overview and Origin
 
