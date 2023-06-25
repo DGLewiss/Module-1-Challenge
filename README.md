@@ -4,7 +4,7 @@
 
 ## Table of contents
 * [Overview and Origin](#overview-and-origin)
-  
+* [Business Activities](#business-activities)
 
 # Overview and Origin
 
@@ -20,7 +20,7 @@ Aladdin was developed to enable clients to view all their investments with preci
 * How is the company funded? How much funding have they received?
 the compnay in publically listed and aladdin currently manages approximately $21t usd as of 2021
 
-## Business Activities
+# Business Activities
 
 * What specific financial problem is the company or project trying to solve?
 Aladdin allows teams across investments, trading, operations, administration, risk, compliance, and corporate oversight to use a consistent process and share the same data.  specifically a software for portfolio management 
