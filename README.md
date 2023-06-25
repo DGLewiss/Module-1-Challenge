@@ -33,16 +33,9 @@ Since the start of 2020, Aladdin has added nearly 30 high-level sustainability i
 
 # Landscape
 
-* What domain of the financial industry is the company in?
-Asset management 
+BlackRock’s array of services will justify a position in multiple domains within the financial industry. The discipline that BlackRock ticks the most boxes with is asset management. As technology applications continue to advance and our dependence on technology grows, innovations within the industry progress quickly. Key trends encompass the optimisation of processes through digital transformation, implementation of AI, Machine learning and improvement in quantitative analysis. Machine learning systems and AI are often implemented to support another trend in the industry, improving client experience and satisfaction with service. Clients of asset management firms are also shifting toward a ‘greener’ investment portfolio. Growing awareness of environmental and social impacts on financial performance requires firms to demonstrate ESG consideration in investment decisions and offer ESG-concentrated investments.
 
-* What have been the major trends and innovations of this domain over the last 5–10 years? https://www.oliverwyman.com/our-expertise/insights/2023/jan/asset-management-trends-2023.html 
-- cutting costs with auotmation
-- targetting carbon neutral targets - carbon credits 
-- Cryptocurrency distributed ledger technology
-
-* What are the other major companies in this domain?
-Charles schwab, northern trust, fidelity investments, State street, vangaurd, berkshire hathaway & 
+*MAJOR COMPETITORS!!!
 
 # Results
 
