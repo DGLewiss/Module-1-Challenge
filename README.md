@@ -1,4 +1,4 @@
-
+![image](https://github.com/DGLewiss/tester_challenge_one/assets/136166580/39cf0975-2549-449a-809d-0323838244fe)
 # BlackRock's Aladdin, Old Dog New Tricks 
 ![Alternate](Images/Blackrock_Servers.jpeg "Blackrock Servers")
 
@@ -14,6 +14,7 @@ ___
 BlackRock was founded in 1988 by eight founders, Larry Fink, Robert Kapito, Susan Wagner, Barbara Novick, Ben Golub, Hugh Frater, Ralph Schlosstein, and Keith Anderson. BlackRock operates in the asset management domain managing over 9 trillion USD as of the end of quarter one 2023, AUM globally is approximately $97t. The Assets Under Management (AUM) are invested from an array of clients including governments, insurance and pension funds and individual investors. BlackRock has recently shifted its focus towards an environmental, social and governance (ESG) approach with investment management, involving sustainability considerations in its largely data-driven decision-making process. BlackRock also provides risk management and financial advisory services to its diverse base of clients to improve financial outcomes in periods of increased market volatility. BlackRock's additional key service is the Aladdin (Asset, Liability and Debt and Derivative Investment Network) the investment management platform provides institutional or individual users a streamlined experience when managing wealth. As a result of BlackRock’s influence in financial markets, there is some debate around its role in the global financial ecosystem.
 
 
+BlackRock is regarded as controlling traditional money markets why not do the same with digital financial markets
 
 
 
@@ -43,13 +44,11 @@ MSCI audit assess asset management firms to provide “…clarity as they sharpe
 
 ___
 # Recommendations
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-* Why do you think that offering this product or service would benefit the company? SOURCEFORGE.NET
-* What technologies would this additional product or service utilise?
-* Why are these technologies appropriate for your solution?
-1. TwoGap is a next-generation asset management platform created with blockchain technology.
-2. Trades occur through smart contracts -> All transactions are documented on the TwoGap blockchain.
-3. TwoGap outcompetes Aladdin in all three asset management silos.
-Implement an asset manager that uses blockchain technology. And this is where TwoGap comes in. TwoGap is a next-generation asset management platform created with blockchain technology. Trades occur through smart contracts meaning all transactions are documented on the TwoGap blockchain. TwoGap outcompetes Aladdin in all three asset management silos: Research Silo, Marketing and Technical Model
+Within the last year BlackRock selected Coinbase to provide Aladdin institutional and individual clients the ability to trade digital assets through their platform. Currently Aladdin clients can only trade with Bitcoin to commence the partnership(COINBASE). It is advised that BlackRock expand their services to support a plethora of cryptocurrency and digital assets. 
+
+Transactions history of major cryptocurrency assets by contribution to total market cap on Binance indicates (FIG INSERT HERE) that the largest crypto assets by market cap is diversifying rapidly. This evolving market can be utilised to share access with clients and growing large digital assets furthermore, young investors are drawn to cryptocurrency markets because of the volatility in assets. As a pillar of investment management in conventional money markets it is wise to expand influence to encompass digital financial markets in a similar manner and capture young investors in the movement too. 
+
+Servicing this platform would not require any new technology but implementation of new infrastructure that can monitor market movements and trading volumes via Aladdin. Technological infrastructure that will need to be developed includes APIs that are digestible by Aladdin and cheaper or ‘lite’ versions of Aladdin with digestible GUI and lower fees for to attract younger investors to the platform. 
+
 
 
