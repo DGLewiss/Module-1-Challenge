@@ -16,14 +16,17 @@ BlackRock was founded in 1988 by eight founders, Larry Fink, Robert Kapito, Susa
 
 
 
+
 ___
 # Business Activities
 
 BlackRock’s Aladdin is the investment management tool of choice for over 55,000 investment professionals and 200 institutional clients. The platform assists users with portfolio, risk and data management, compliance, regulations and client servicing. Aladdin’s latest ability is ESG integration enabling customers to factor ESG analytics into investment decision-making. Sustainable business operations are imperative for corporations to future-proof their positions. Recently structured tax provisions such as the inflation reduction act are passed to support investment into renewable energy transition and sustainable technologies. Therefore, investors obtaining insight into tax policies with ESG strategies provide an opportunity for differentiated investment outcomes. BlackRock’s Aladdin positions itself between the legislative change and investors to support ESG investments and accelerate economic prosperity in this sector.
 
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
-Since the start of 2020, Aladdin has added nearly 30 high-level sustainability index scores from leading data providers. They’ve integrated new ESG data fields from groups like MSCI and Sustainalytics into the platform. And they are partnering to expand the offering, including a strategic partnership with Clarity AI (a tech-driven sustainability measurement start-up) and the acquisition of Baringa Partner’s Climate Change Scenario Mode
+The Aladdin platform utilises AI, natural language processing (NLP), and extract, transform and load (ELP) operations to tailor investment insights for clients. AI techniques are introduced into Aladdin to “…simulate various market scenarios, stress test portfolios, and identify potential sources of risk.” (medium 1) The incorporation of AI into decision making is arguably one of the highest value adds to the platform, contributing to the great reputation that BlackRock has established for best-in-class risk analytics. 
+
+NLP practices are utilised with deep learning models and AI to take human interactions, such as speech, process it and return data that computers can process. The implementation of such NLP is to collect information distributed by humans from sources similar to “…news feeds, economic indicators, and social media platforms.” (Medium 2) Aladdin digests extracted information to recognise patterns and extrapolate fluctuations in financial markets. Lastly ETL is used to extract data from various data points some include end products from NPL, APIs tied to the stock market and existing data storages (youtube). Transformation of the data to a standardised input then the data is loaded to Aladdin. Aladdin specifically incorporates ETL to maintain regulatory and reporting compliance with both client and governing requirements. 
+
 
 ___
 # Landscape
@@ -33,15 +36,10 @@ When selecting an investment management platform there is no perfect solution, b
 
 ___
 # Results
-* What has been the business impact of this company so far?
-the business impact of aladdin 
-- aladdin has drawn business from additional sources currentlty influencing 10% of global assets under management 
+The success of BlackRock and rival firm operations can be reviewed from a plethora of metrics, key measurements that both the firm and publications assess are AUM, and the assets distribution across equities, return on investment (ROI) and ESG scores (CRAFT). From their performance over the last five fiscal years the firm has returned a total of $1.8t usd on investment (AR). AUM has grown more than 250% this decade contributing to their 7,700% return on BlackRock stock since IPO in 23 years. Competitor Northern Trust (NT) AUM declined $350b usd in recent years, Fidelity Investments (Fidelity) AUM also dropped $1.2t usd between the two previous fiscal years. 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-BlackRock key operating metrics including Countries Covered, environmental, social and governance score (ESG), and technology stack - https://craft.co/blackrock/operating-metrics
+MSCI audit assess asset management firms to provide “…clarity as they sharpen their focus on the financial impact of climate change and awareness…” (MSCI) results demonstrate BlackRock receiving AA ratings 4 out of 5 previous years, the rating of a leader. Prior mentioned competitors result through the same assessment scored as Berkshire Hathaway BB, Fidelity Investment BB and Northern Trust AA. Despite BlackRock generating less revenue than competitors their AUM is growing faster, and trends suggest that this is because of their success in ESG investments and transparency. 
 
-* How is your company performing relative to competitors in the same domain?
-Very well - it is black rock
 
 ___
 # Recommendations
