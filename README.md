@@ -1,4 +1,3 @@
-![image](https://github.com/DGLewiss/tester_challenge_one/assets/136166580/39cf0975-2549-449a-809d-0323838244fe)
 # BlackRock's Aladdin, Old Dog New Tricks 
 ![Alternate](Images/Blackrock_Servers.jpeg "Blackrock Servers")
 
