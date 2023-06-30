@@ -43,7 +43,7 @@ Within the last year BlackRock selected Coinbase to provide Aladdin institutiona
 
 Transactions history of major cryptocurrency assets by contribution to total market cap on Binance indicates (FIG INSERT HERE) that the largest crypto assets by market cap is diversifying rapidly. This evolving market can be utilised to share access with clients and growing large digital assets furthermore, young investors are drawn to cryptocurrency markets because of the volatility in assets. As a pillar of investment management in conventional money markets it is wise to expand influence to encompass digital financial markets in a similar manner and capture young investors in the movement too. 
 
-![Figure1.1](Images/Chart-(1).jpeg)
+![Figure1.1](Images/Chart-(1).jpeg_"graphic")
 
 Servicing this platform would not require any new technology but implementation of new infrastructure that can monitor market movements and trading volumes via Aladdin. Technological infrastructure that will need to be developed includes APIs that are digestible by Aladdin and cheaper or ‘lite’ versions of Aladdin with digestible GUI and lower fees for to attract younger investors to the platform. 
 
