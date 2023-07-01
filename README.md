@@ -1,5 +1,5 @@
 # BlackRock's Aladdin, Old Dog New Tricks 
-![BlackRock Servers](Images/Screenshot-2023-07-01-at-5.56.21-pm.png)
+![BlackRock Servers](Images/Dashboard1.png)
 
 ## Table of contents
 * [Overview and Origin](#overview-and-origin)
