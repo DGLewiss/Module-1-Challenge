@@ -7,6 +7,7 @@
 * [Landscape](#landscape)
 * [Results](#results)
 * [Recommendations](#Recommendations)
+* [Conclusion](#Conclusion)
 
 ___
 ## Overview and Origin
@@ -51,5 +52,6 @@ Figure 1.1
 
 Servicing this platform would not require any new technology but the implementation of new infrastructure that can monitor market movements and trading volumes via Aladdin. Technological infrastructure that will need to be developed includes APIs that are digestible by Aladdin and cheaper or ‘lite’ versions of Aladdin with digestible GUI and lower fees. A user-friendly interface improves user experience with the platform, fewer fees will drive clients to return to the platform to invest again. 
 
+___
 ## Conclusion 
 To summarise, BlackRock's Aladdin has asserted itself as a leader in asset management platforms. This has been accomplished by offering a comprehensive range of services that utilise modern technological advancements and capitalising on trends within the industry. Aladdin has consistently outperformed competitor alternative platforms. To further expand Aladdin's dominance, BlackRock should consider delivering services to a wider range of cryptocurrencies and digital assets. By staying flexible, innovative and aligned with trends, BlackRock will maintain its leadership in the industry and maximise delivery to clients globally.
