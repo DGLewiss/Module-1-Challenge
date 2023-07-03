@@ -1,4 +1,4 @@
-![image](https://github.com/DGLewiss/Module-1-Challenge/assets/136166580/1ec1c27d-ab0c-486d-b998-6a47a616a828)# BlackRock's Aladdin, Old Dog New Tricks 
+# BlackRock's Aladdin, Old Dog New Tricks 
 ![BlackRock Servers](Images/Dashboard1.png)
 
 ## Table of contents
