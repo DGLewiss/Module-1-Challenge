@@ -1,4 +1,4 @@
-# BlackRock's Aladdin, Old Dog New Tricks 
+![image](https://github.com/DGLewiss/Module-1-Challenge/assets/136166580/1ec1c27d-ab0c-486d-b998-6a47a616a828)# BlackRock's Aladdin, Old Dog New Tricks 
 ![BlackRock Servers](Images/Dashboard1.png)
 
 ## Table of contents
@@ -45,7 +45,8 @@ ___
 Within the last year, BlackRock selected Coinbase to provide Aladdin institutional and individual clients with the ability to trade digital assets through their platform. Currently, Aladdin clients can only deal with Bitcoin in the commencement phase of their partnership with Coinbase ([Coinbase, 2022](https://www.coinbase.com/blog/coinbase-selected-by-blackrock-provide-aladdin-clients-access-to-crypto-trading-and-custody-via)). It is advised that BlackRock expand their services to support a plethora of cryptocurrency and digital assets. 
 
 
-Records of cryptocurrency transactions on Binance show that major currencies traded are expanding rapidly([Binance, 2023](https://www.binance.com/en-AU/altcoins/tradable)), as seen in figure 1.1. This evolution in the digital asset market presents an opportunity to share access with clients and pioneer investments in digital assets. Large fluctuations in the digital asset market attract young investors to the market. As a pillar of investment management in conventional money markets it is wise to expand influence to encompass digital financial markets similarly and capture young investors in the movement too.
+Records of cryptocurrency transactions on Binance show that major currencies traded are expanding rapidly (Binance, 2023), as seen in Figure 1.1. This evolution in the digital asset market presents an opportunity to share access with clients and pioneer investments in digital assets. Many young investors aged 21 to 42 do not believe significant returns in traditional equities are possible. Younger generations are engaging in new investment strategies with the Bank of America reporting “47% have cryptocurrency holdings” ([Bank of America 2022](https://newsroom.bankofamerica.com/content/newsroom/press-releases/2022/10/bank-of-america-private-bank-study-finds-younger-investors-turni.html)). As a pillar of investment management in conventional money markets it is wise to expand influence to encompass digital financial markets similarly and capture young investors in the movement too.
+
 
 ![Figure1.1](Images/Crypto_Breakdown.jpeg)
 Figure 1.1
