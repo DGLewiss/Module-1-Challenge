@@ -60,12 +60,12 @@ To summarise, BlackRock's Aladdin has asserted itself as a leader in asset manag
 
 ___
 ## Bibliography
-Adventuremington. (2023, March 1). Blackrock’s all-powerful AI. Retrieved from Medium: https://medium.com/@remingtondunlap/blackrocks-all-powerful-ai-fab3f53eb830
+* Adventuremington. (2023, March 1). Blackrock’s all-powerful AI. Retrieved from Medium: https://medium.com/@remingtondunlap/blackrocks-all-powerful-ai-fab3f53eb830
 Aladdin by BlackRock. (2023, June 30). Aladdin Enterprise. Retrieved from Aladdin by BlackRock: https://www.blackrock.com/aladdin/offerings/aladdin-overview#:~:text=As%20an%20end%2Dto%2Dend,investment%20professionals%20around%20the%20world
-Ayeshchohan. (2023, April 16). Unleashing the Power of Aladdin: Exploring the Technology Driving BlackRock’s Success. Retrieved from Medium: https://medium.com/@ayeshchohan2/unleashing-the-power-of-aladdin-exploring-the-technology-driving-blackrocks-success-5d0c0450188c
-Bank of America. (2022, October 11). Bank of America Private Bank Study Finds Younger Investors Turning to Alternatives, Sustainability and Digital Assets to Create Wealth. Retrieved from Bank of America Newsroom: https://newsroom.bankofamerica.com/content/newsroom/press-releases/2022/10/bank-of-america-private-bank-study-finds-younger-investors-turni.html
-Binance. (2023, July 1). Major cryptoassets by percentage of total market cap . Retrieved from Binance: https://www.binance.com/en-AU/altcoins/tradable
-BlackRock. (2020, Jan). About BlackRock in Australia. Retrieved from BlackRock: https://www.blackrock.com/au/individual/about-us/about-blackrock?cid=ppc:blk_au:google:sitelink&gclid=Cj0KCQjwqNqkBhDlARIsAFaxvwzenzNPRQYTBbA18cl00Ed_abSKIyXay6zSEA6ZM5h_6tbcdltkO6gaAtxEEALw_wcB&gclsrc=aw.ds
+* Ayeshchohan. (2023, April 16). Unleashing the Power of Aladdin: Exploring the Technology Driving BlackRock’s Success. Retrieved from Medium: https://medium.com/@ayeshchohan2/unleashing-the-power-of-aladdin-exploring-the-technology-driving-blackrocks-success-5d0c0450188c
+* Bank of America. (2022, October 11). Bank of America Private Bank Study Finds Younger Investors Turning to Alternatives, Sustainability and Digital Assets to Create Wealth. Retrieved from Bank of America Newsroom: https://newsroom.bankofamerica.com/content/newsroom/press-releases/2022/10/bank-of-america-private-bank-study-finds-younger-investors-turni.html
+* Binance. (2023, July 1). Major cryptoassets by percentage of total market cap . Retrieved from Binance: https://www.binance.com/en-AU/altcoins/tradable
+* BlackRock. (2020, Jan). About BlackRock in Australia. Retrieved from BlackRock: https://www.blackrock.com/au/individual/about-us/about-blackrock?cid=ppc:blk_au:google:sitelink&gclid=Cj0KCQjwqNqkBhDlARIsAFaxvwzenzNPRQYTBbA18cl00Ed_abSKIyXay6zSEA6ZM5h_6tbcdltkO6gaAtxEEALw_wcB&gclsrc=aw.ds
 BlackRock. (2022, June). BlackRock, most recent annual report. Retrieved from AnnualReports.com: https://www.annualreports.com/Company/blackrock
 Boston Consulting Group. (2023, May 15). Global Asset Management Industry Must Transform to Thrive Amidst Changing Macroeconomics. Retrieved from BCG Press Releases: https://www.bcg.com/press/15may2023-global-asset-management-transform-to-thrive
 Craft. (2023, June 30). BlackRock operating metrics. Retrieved from Craft: https://craft.co/blackrock/operating-metrics
